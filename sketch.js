@@ -6,8 +6,8 @@ var particles = []
 
 function preload(){
   soundFormats('mp3', 'ogg');
-  song = loadSound('../TWICETalkthatTalk.mp3')
-  img = loadImage('../twice.jpg')
+  song = loadSound('TWICETalkthatTalk.mp3')
+  img = loadImage('twice.jpg')
 }
 
 function setup() {
