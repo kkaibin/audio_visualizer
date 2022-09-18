@@ -79,7 +79,7 @@ function mouseClicked(){
     song.pause()
     noLoop()
   }else{
-    song.setVolume(0.2)
+    song.setVolume(0.5)
     song.play()
     loop()
   }
